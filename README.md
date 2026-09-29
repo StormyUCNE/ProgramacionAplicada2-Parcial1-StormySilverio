@@ -1,1 +1,1 @@
-programacionaplicada2-parcial1-stormysilverio-production.up.railway.app
+https://programacionaplicada2-parcial1-stormysilverio-production.up.railway.app
